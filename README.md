@@ -1,4 +1,5 @@
 # 🧠 Clara Bot — AI Mental Wellness Chatbot
+<img width="1916" height="901" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ff4f4e2d-a85c-4c7a-920b-3c5aa8ca027e" />
 
 Clara Bot is an AI-powered mental wellness chatbot designed to support users through thoughtful, real-time conversations. Built using **Node.js** and synced with OpenAI's `gpt-3.5-turbo` model, Clara Bot brings the power of conversational AI directly to your browser.
 
